@@ -1,0 +1,16 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "let's practice express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nocturne9no1",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
