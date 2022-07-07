@@ -1,0 +1,9 @@
+@import '_reset.scss';
+@import 'main.scss';
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+  background-color: #f7ffde;
+  min-height: 100vh;
+}

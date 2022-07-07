@@ -1,0 +1,31 @@
+.board-wrap {
+  padding-top: 200px;
+  width: 80%;
+  margin: 0 auto;
+}
+h2 {
+  font-size: 28px;
+  margin-bottom: 12px;
+}
+.board-table {
+  width: 100%;
+  thead {
+    th {
+      padding: 12px 0;
+    }
+  }
+  .board-list-item {
+    width: 100%;
+    border-top: 1px solid #000000;
+    margin-top: 12px;
+    td {
+      padding: 12px 0;
+      text-align: center;
+    }
+  }
+}
+
+// new article
+.new-article-wrap {
+  
+}
